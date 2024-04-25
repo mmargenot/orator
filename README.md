@@ -11,5 +11,5 @@ A tool for generating audiobooks from ebooks. Currently, only `epub` files are s
 The API is primarily presented via a CLI.
 
 # todo
-- [] Test voice conversion for generation
-- [] Add Dockerfile to prevent awkward requirements
+- [ ] Test voice conversion for generation
+- [ ] Add Dockerfile to prevent awkward requirements
