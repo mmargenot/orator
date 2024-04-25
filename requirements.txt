@@ -1,0 +1,9 @@
+TTS==0.22.0
+torch==2.2.1
+transformers==4.38.2
+ebooklib==0.18
+bs4==0.0.2
+numpy==1.22.0
+numba==0.59.0
+click==8.1.7
+# also requires espeak installed on machine
