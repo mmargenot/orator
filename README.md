@@ -15,4 +15,5 @@ orator orate --book-path $PATH_TO_BOOK --out-path $PATH_TO_OUTPUT_DIRECTORY
 
 # todo
 - [ ] Test voice conversion for generation
+- [ ] Add more filetype input options
 - [ ] Add Dockerfile to prevent awkward requirements
