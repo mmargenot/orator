@@ -8,7 +8,10 @@ A tool for generating audiobooks from ebooks. Currently, only `epub` files are s
 3. `pip install -e .` in the main repo
 
 # use
-The API is primarily presented via a CLI.
+The API is primarily presented via a CLI. Currently, there is only one tool available:
+```
+orator orate --book-path $PATH_TO_BOOK --out-path $PATH_TO_OUTPUT_DIRECTORY
+```
 
 # todo
 - [ ] Test voice conversion for generation
